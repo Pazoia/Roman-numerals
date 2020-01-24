@@ -1,7 +1,3 @@
-roman_num = {
-    1: :I
-}
+class Roman_num
 
-def roman_numerals(number)
-    
 end
